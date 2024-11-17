@@ -7,7 +7,7 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "U4ZGEazB#2LCozvQU4nOBUM4x0AxaH4vOd5GkzJJEvoVjJG6lNKc",
       "required": true
     },  
 
@@ -17,7 +17,7 @@
     },
     
     "ALIVE_MSG": {
-      "description": "Put your alive msg here.",
+      "description": "im alive now",
       "required": true
     }   
 },
